@@ -85,7 +85,7 @@ public class main {
                      
                 }
                 op = "2";
-               
+                break;
             case "2":
                 System.out.println("Consultar la base de datos url? S/N");
                 String sino = scanner.nextLine();
@@ -132,5 +132,6 @@ public class main {
                         
                         
                     }
-                }}
+                }
+        }
     }}
